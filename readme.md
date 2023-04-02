@@ -20,9 +20,9 @@ My idea is to further implement it with a database, capable of saving the user w
 
 If you want to use the code, follow these steps:
 
-Download the file containing the code.
-Make sure your machine can compile the code.
-Run it wherever you prefer (Vscode, replit...)
+1. Download the file containing the code.
+2. Make sure your machine can compile the code.
+3. Run it wherever you prefer (Vscode, replit...)
 
 I hope you like it!
 

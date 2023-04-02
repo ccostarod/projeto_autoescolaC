@@ -10,7 +10,7 @@ Caso queira utilizar o código, siga os seguintes passos:
 3. Execute ele onde preferir (Vscode, replit...)
 Espero que goste!
 
---*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was made using C and the idea behind it is to put into practice all the theory developed in LP1 about C. It is a simple driving school system, in which the user has two main choices:
 
